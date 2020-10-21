@@ -1,32 +1,12 @@
-<header>
-    <div id="logo">HTML</div>
-    <nav>  
-        <ul>
-            <li><a href="/">Home</a>
-            <li><a href="/link">Page</a>
-        </ul>
-    </nav>
-</header>
-<main role="main">
-    <article>
-        <h2>Title 1</h2>
-        <p>Content 1</p>
-    </article>
-    <article>
-        <h2>Title 2</h2>
-        <p>Content 2</p>
-    </article>
-</main>
-<section>
-    A group of related content
-</section>
-<aside>
-    Sidebar
-</aside>
-<footer>
-    <p>&copy; HTML CheatSheet</p>
-    <address>
-        Contact <a href="mailto:me@htmlg.com">me</a>
-    </address>
-</footer>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
