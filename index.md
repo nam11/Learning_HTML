@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="-en">
-<body style="background-color:powderblue">
+<body style="background-color:powderblue;">
 
 <h1>Hello World!</h1>
 <p>Hello World!</p>
